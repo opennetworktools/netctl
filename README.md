@@ -1,7 +1,5 @@
 # Netctl
 
-The Anjarai Petti (Traditional Indian Spice Box) for Network Engineers!
-
 Note: Experimental CLI tool. Not stable yet. WIP.
 
 ## Documentation
